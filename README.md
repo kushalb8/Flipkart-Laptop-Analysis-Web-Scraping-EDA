@@ -56,9 +56,10 @@ A Python data analysis project using **web scraping and Exploratory Data Analysi
 
 Identified dominant price segments, popular laptop brands, discount patterns, processor trends, storage preferences, customer engagement, and best-value laptops to support better laptop purchasing decisions.
 
-👨‍💻 Authors
+## 👨‍💻 Author
 
-M. Kushal
+**M. Kushal**
 B.Tech – Computer Science Engineering
 
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/kushal-medaboina-315020328/) | [GitHub](https://github.com/kushalb8)
+
